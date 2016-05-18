@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 public class CoinJam {
 
+//	 private static final String INPUT_FILENAME = "C-small-attempt2.in";
 	private static final String INPUT_FILENAME = "coin.in";
 	private static final String OUTPUT_FILENAME = "coinOutput.txt";
 

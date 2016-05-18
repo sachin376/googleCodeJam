@@ -1,4 +1,4 @@
-package codejam.R22016;
+package codejam.R12016;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
